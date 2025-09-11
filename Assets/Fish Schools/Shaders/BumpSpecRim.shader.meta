@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a637f27b9eb99ec45851879705a9df7c
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 31110
+  packageName: Fish School Bundle
+  packageVersion: 1.3.3
+  assetPath: Assets/Fish Schools/Shaders/BumpSpecRim.shader
+  uploadId: 204505

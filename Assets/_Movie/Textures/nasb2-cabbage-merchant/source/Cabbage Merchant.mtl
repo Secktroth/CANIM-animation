@@ -1,0 +1,19 @@
+# exported by https://3dviewer.net
+newmtl CabbageVendor_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl CabbageVendor_Cabbage_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl CabbageVendor_Expressions_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4ea9aef88680787459641fb4f0598c81
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 31110
+  packageName: Fish School Bundle
+  packageVersion: 1.3.3
+  assetPath: Assets/Fish Schools/Shaders/ReflectBumpRimSpecVertex.shader
+  uploadId: 204505
